@@ -1,4 +1,4 @@
-# maquino_cafe
+# maquina_cafe
  Código para a máquina de café com raspberry pi pico
 
 ![proj](https://user-images.githubusercontent.com/79452593/171746735-1287a815-aca6-4e65-85fb-b9218ba5ec2e.jpeg)
